@@ -14,21 +14,13 @@
 - <strong>Others:</strong> Agile, OOP, TDD, Continuous Integration/Continuous Delivery with Travis, CircleCi and Jenkins, Apache Spark, and Apache Airflow.
 
 
-## Some of my passion projects I have worked on include:
-<ul>
-<li><a href="https://github.com/jonathankamau/MovieBuff-API" target="_blank">MovieBuff API</a></li>
-<li><a href="https://github.com/jonathankamau/EpisodeTracker-API" target="_blank">EpisodeTracker API</a></li>
-<li><a href="https://github.com/jonathankamau/Covid19Viewer-API" target="_blank">Covid19Viewer-API (In progress as we speak)</a></li>
-</ul>
-au/Covid19Viewer-Frontend" target="_blank">Covid19Viewer-Frontend</a>
-
 ## For Data Engineering here are some projects I have worked on:
 <ul>
-<li><a href="https://github.com/jonathankamau/udend-capstone-project" target="_blank">Udacity's Data Engineering Capstone Project</a></li>
-<li><a href="https://github.com/jonathankamau/udend-data-warehouse-project" target="_blank">Data Warehouse Project</a></li>
-<li><a href="https://github.com/jonathankamau/udacity-data-lake-project" target="_blank">Data Lake Project</a></li>
-<li><a href="https://github.com/jonathankamau/udacity-spark-streaming-project" target="_blank">Spark Streaming Project</a></li>
-<li><a href="https://github.com/jonathankamau/public-transportation-project" target="_blank">Public Transit Status with Apache Kafka</a></li>
+<li><a href="https://github.com/17mihir/Stackfolio-s-Data-Engineering-Captsone-Project.git" target="_blank">Tiger Analytics ETL Pipeline Project</a></li>
+<li><a href="https://github.com/17mihir/Stackfolio-s-Sparkify-Data-Pipeline-Project-with-Apache-Airflow.git" target="_blank">Shiprocket Data Pipeline Project with Apache Airflow</a></li>
+<li><a href="https://github.com/17mihir/Sparkify-Data-Lake-Project-with-Apache-Spark.git" target="_blank">Spotify Data Lake Project with Apache Spark</a></li>
+<li><a href="https://github.com/17mihir/Spark-Streaming-Project.git" target="_blank">Tredence Spark Streaming Project</a></li>
+<li><a href="https://github.com/17mihir/Public-Transit-Status-with-Apache-Kafka.git" target="_blank">Chicago Transit Authority Public Transit Status with Apache Kafka</a></li>
 </ul>
 
 
