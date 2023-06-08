@@ -1,9 +1,10 @@
 # stackfolio.co
-My name is Jonathan Kamau and I am a Software Engineer at Yoyo. I have over four years of experience, mostly in a backend role with Python working in distributed teams. I actively pursue self-learning and growth as a developer and always work towards improving my craft.
+##My name is Jonathan Kamau and I am a Software Engineer at Yoyo. I have over four years of experience, mostly in a backend role with Python working in distributed teams. I actively pursue self-learning and growth as a developer and always work towards improving my craft.
 
 More about Me | Linkedin
 
-I am proficient in the following Languages/Frameworks/Technologies:
+##Skills Acquired
+
 Programming Languages: Python and Javascript
 Version Control Systems: Git/Github
 Frameworks: Django and Flask, NodeJS
