@@ -13,6 +13,9 @@
 - <strong>Project Management Tools:</strong> Jira, Pivotal Tracker, Trello
 - <strong>Others:</strong> Agile, OOP, TDD, Continuous Integration/Continuous Delivery with Travis, CircleCi and Jenkins, Apache Spark, and Apache Airflow.
 
+## My Bonafide Work Experience and Externship Projects I have undertaken
+<ul>
+<li><a href="https://github.com/17mihir/Data-Engineering-Portfolio.git" target="_blank">Data Engineering Portfolio</a></li>
 
 ## For Data Engineering here are some projects I have worked on:
 <ul>
