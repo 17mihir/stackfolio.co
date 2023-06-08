@@ -1,15 +1,7 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jonathankamau/jonathankamau/master/resources/images/my-initials.gif"/>
 </p>
 
-My name is Jonathan Kamau and I am a Software Engineer at [Yoyo](https://yoyowallet.com/). I have over four years of experience, mostly in a backend role with Python working in distributed teams. I actively pursue self-learning and growth as a developer and always work towards improving my craft.
-
-<p align="center">
-  <a href="http://jonathankamau.com/" target="_blank">More about Me</a> | 
-  <a href="https://www.linkedin.com/in/kamaujonathan/" target="_blank">Linkedin</a>
-</p>
 
 ## I am proficient in the following Languages/Frameworks/Technologies:
 
@@ -28,10 +20,7 @@ My name is Jonathan Kamau and I am a Software Engineer at [Yoyo](https://yoyowal
 <li><a href="https://github.com/jonathankamau/EpisodeTracker-API" target="_blank">EpisodeTracker API</a></li>
 <li><a href="https://github.com/jonathankamau/Covid19Viewer-API" target="_blank">Covid19Viewer-API (In progress as we speak)</a></li>
 </ul>
-
-## I am currently learning:
-- Deep dive into Data Structures and Algorithms and posting solutions to code challenges <a href="https://github.com/jonathankamau/technical_tests" target="_blank">here</a>
-- React - Currently building <a href="https://github.com/jonathankamau/Covid19Viewer-Frontend" target="_blank">Covid19Viewer-Frontend</a>
+au/Covid19Viewer-Frontend" target="_blank">Covid19Viewer-Frontend</a>
 
 ## For Data Engineering here are some projects I have worked on:
 <ul>
